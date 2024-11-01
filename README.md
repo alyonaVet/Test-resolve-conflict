@@ -1,4 +1,5 @@
 # Test-resolve-conflict
 
-This is added for testing to resolve conflict in git
-Thi is another line of code
+This is added for testing to resolve disaster in git
+
+This is another line of awesome code 
